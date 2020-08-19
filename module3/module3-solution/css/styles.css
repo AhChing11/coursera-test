@@ -1,0 +1,13 @@
+body {
+	font-family: sans-serif;
+}
+
+.navbar-header .navbar-brand {
+	font-weight: bold;
+	color: #000000;
+}
+
+.text-title {
+	text-align: center;
+	font-weight: bold;
+}
