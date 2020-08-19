@@ -20,7 +20,7 @@ body {
 	font-weight: bold;
 }
 
-#chicken-content {
+#chicken-content{
 	padding: 0;
 }
 
@@ -29,7 +29,7 @@ body {
 	color: white;
 }
 
-#chicken-content {
+#chicken-content, #beef-content, #sushi-content {
 	background-color: grey;
 	padding-left: 5px;
 	color: black;
